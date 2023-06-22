@@ -9,6 +9,7 @@ let
     , nixosTests
     , tests
     , fetchurl
+    , fetchpatch
     , makeBinaryWrapper
     , symlinkJoin
     , writeText
